@@ -19,37 +19,39 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              The first time I fell in love with technology was in 2020 during the COVID-19 pandemic lockdown. Stuck at home, I decided to buy a refurbished MacBook Air and enroll in an online coding bootcamp at Code Fellows. After an intense nine months, I transformed into a full stack software developer with skills in Python and JavaScript. Learning to code made me feel like I could learn anything, build anything, and do anything I dreamed up.
               <br />
-              <br />I am fluent in classics like
+              <br />I'm currently fluent in backend development with  
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> Python, Django, Node.js, Express.js, and Bash. </b>
+              </i>
+                For frontend development, I work with  
+              <i>
+                <b className="purple"> JavaScript, React, HTML, CSS, Bootstrap, and Markdown. </b>
+              </i>
+                My cloud service experience includes  
+              <i>
+                <b className="purple"> AWS and Heroku. </b>
+              </i>
+                I've worked with databases like  
+              <i>
+                <b className="purple"> SQL, MongoDB, and PostgreSQL. </b>
+              </i>
+                I also have some experience in data science and machine learning with  
+              <i>
+                <b className="purple"> SciKit-Learn, NLTK, Pandas, and NumPy. </b>
+              </i>
+                My other technical skills cover computer networking with  
+              <i>
+                <b className="purple"> Wireshark, Nmap, and Cisco Packet Tracer, </b>
+              </i>
+                as well as cybersecurity tools like 
+              <i>
+                <b className="purple"> RADIUS, OpenVPN, and Kali Linux. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
-              </i>
-              <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+                When I am not at the computer, you can find me being a great dane mom, tending to my backyard food forest and homemade compost, reading books about tech and women's empowerment, or baking new desserts and churning fresh ice cream inspired by classic treats. I'm also an enthusiast of carnivorous plants and love adding new specimens to my collection.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
